@@ -4,24 +4,24 @@ title: Course Description
 permalink: /description/
 ---
 
-Instructor:  Andrea Lommen, KINSC L108, alommen 'at' haverford 'dot' edu
+Instructor:  Ted Brzinski, KINSC L109, tbrzinski 'at' haverford 'dot' edu
 
-Textbook:  Introduction to Electrodynamics by David J. Griffiths, 4th edition
+Textbook:  
 
-Thank you to Steve Boughn for his problem sets, and thanks to Kate Daniels for the format of this course. The text on this page in particular, was almost completely written by Kate (with a few changes) and I have her permission to use it here.
+I owe thanks to Andrea Lommen and Kate Daniels for the format of this course. Much of this website was adapted directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text on this page was originally written by Kate.
 
-The format of each class will be a very short (25 min) review lecture highlighting the important points of your reading. The rest of the time will be devoted to collaborative problem solving. Since not all the relevant material will be covered in the lectures, it is essential that the assigned reading be completed each Monday. The textbook by Griffiths gives an excellent intermediate-level treatment of electrodynamics. It is well written in an informal style that lends itself well to self study. 
+I also owe thanks to Dan Grin for a wealth of course materials which I'll be drawing upon throughout the semester - problems for group and individual investigation both in and out of the class, demos, lecture notes, and so on.
 
-I adore E&M for its mathematical beauty.  Let me say that another way that sounds less fancy.  All of E&M can be derived from 4 equations (Maxwell's Equations).  We don't get there until the end, but along the way I hope to point out that there really are very few equations.  There's a bunch of math you have to deal with, and we'll spend the first week getting used to that, and then you'll keep getting more familiar with that as we go on. 
+Each Monday I'll use the first 30-40 minutes of class to summarize the prior week's topics, the weekend's readings, and what we'll learn in the present week.  My goal will be to contextualize the problem solving we do through the classwork (in-class work with your peers) and other coursework (out-of-class), highlight interesting and important concepts and ideas, and to provide some fodder for group discourse in the form of some discussion prompts and conceptual problems.  The next 15 minutes of class will consist of group- and class-wide discussion, then for the last 5-15 minutes we'll come back together and share the fruits of our group discussions.
 
-While the primary purpose of this course is a formal, mathematical introduction to electrodynamics including Maxwell's Equations and radiation, applications to other areas of physics and astrophysics will be highlighted in the assignments and workshops.
+The format of each W/Fr class will be a very short (5-10 min) review highlighting the points of your reading relevant to the group problems for the day. The rest of the time will be devoted to collaborative problem solving. Since not all the relevant material will be covered in the lectures, it is essential that the assigned reading be completed each Monday. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study. Later in the semester we'll draw on other texts, especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter.
+
+Classical mechanics is one of the more mature branches of physics we teach at the 300-level - indeed, it's the very first thing you see in our major sequence, since the topics covered in 101/105 (Newton's Laws, conservation, etc) are the foundations of all classical mechanics. [Some words about open questions and relevance to active research.]
 
 
 # Class Structure:
-To do electrodynamics one must become expert in mathematical tools used to do
-electrodynamics problems and also develop a clear understanding of how these
-problems relate to the physical concepts at hand. These tools and concepts are widely
-applicable to a range of topics in physics and beyond!
+To solve problems in mechanics, Newton and Leibniz (in parallel) developed the fundamentals of calculus, so if follows that the study of mechanics leverages powerful mathematical tools.
+Over the course of the semester, you will learn to utilize these tools to solve mechanics problems and also develop a clear understanding of how the mathematical formalism relates to the physical concepts at hand.
 
 The pedagogy for this course is designed to lead you toward realizing your best inner
 physicist. I will provide a strong scaffolding and support for you to make steady progress.
@@ -41,7 +41,7 @@ reading before you arrive. Over the semester you will produce a set of notes and
 completed problems called PRETTY COPIES. You will use these PRETTY COPIES for the
 QUIZZES. 
 
-Here is the specific process we will go through for each topic:
+Here is the specific process we will go through for each topic [Need to update]:
 
 **Before Class:**
 
