@@ -1,0 +1,4 @@
+git commit -m "Added stuff"
+git push origin gh-pages
+
+# You might just want to add the file, because _config.yml has to change depending on where you are. The baseurl has to change.
