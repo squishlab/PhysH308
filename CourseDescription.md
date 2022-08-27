@@ -6,7 +6,7 @@ permalink: /description/
 
 Instructor:  Ted Brzinski, KINSC L109, tbrzinski 'at' haverford 'dot' edu
 
-Textbook:  
+Textbook:  Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. Lautraup's Physics of Continuous Matter is an optional additional reference which we will lean on somewhat when we cover the mechanics of fluids.
 
 I owe thanks to Andrea Lommen and Kate Daniels for the format of this course. Much of this website was adapted directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text on this page was originally written by Kate.
 
