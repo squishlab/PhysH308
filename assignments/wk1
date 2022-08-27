@@ -1,0 +1,25 @@
+---
+layout: page
+title:  "Assignment #1"
+permalink: "/assignments/wk1"
+---
+
+Reading: Taylor, Chapters 1-2. The reading notes for week 1, but you should try to read Chap. 1 before class Wednesday, and Chap. 2 before class Friday.
+
+You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while
+you write them.
+
+Don't forget the criteria we are looking for in your solutions (see the coursework evaluation checklist for them).
+
+In order to make sure you get your context and meaning/make sense points,
+next to your answers, please put a “c” with a circle around it for context,
+and an “m” with a circle around it for meaning.
+
+1. Taylor Ex 1.6
+*Main point: This problem will serve as a review of vector math and how to switch between polar and cartesian coordinates.*
+
+Recall
+$$
+\vec{x}\equiv\left|\vec{x}\right|\hat{x}
+$$
+
