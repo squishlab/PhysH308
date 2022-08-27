@@ -1,6 +1,6 @@
 ---
 layout: page
-author: Andrea Lommen
+author: Ted Brzinski
 title: Honor Code 
 permalink: /honor/
 ---
@@ -15,3 +15,6 @@ For your own good, you should be sure to first attempt and make a good effort at
 Citing sources:  If you need to reference work from any written source in completing an assignment, you must cite it appropriately, and you must not copy from it.
 Copying someone else’s work (either another student in the course, solutions posted online or material from ANY source) is a clear Honor Code violation and will result in your being referred to Honor Council.  To avoid this situation, never copy over for credit work done in a collaborative setting.  Put aside or cover up any notes you have written down from group collaborations and write up your solutions separately, using what you learned from them.  It is good practice to use some clear code to label cooperative work (such as colored paper or a big C label in the top right corner.  
 Never copy directly from a group solution, either on paper or on a blackboard. Just writing down the names of students with whom you have worked on your homework does not make such copying acceptable behavior.
+
+
+[Update!]
