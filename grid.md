@@ -6,4 +6,4 @@ permalink: /Grid/
 
 |Week starting..   | Reading | |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| January 17, 2022 | Chapter 1 | <a href='/PHY309/assignments/wk1' >Assignment \#01 |
+| August 29, 2022 | Chapters 1-2 | <a href='/PhysH308/assignments/wk1' >Assignment \#01 |
