@@ -4,7 +4,8 @@ layout: page
 permalink: /assignments/wk1
 ---
 
-Reading: Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Reading Notes* for week 1 are due Wednesday at 11:59 PM on Friday, and you should try to read Chaps. 1-2 before class Wednesday.
+Reading:  
+Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Reading Notes* for week 1 are due Wednesday at 11:59 PM on Friday, and you should try to read Chaps. 1-2 before class Wednesday.
 
 You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while
 you write them.
@@ -15,11 +16,8 @@ In order to make sure you get your context and meaning/make sense points,
 next to your answers, please put a “c” with a circle around it for context,
 and an “m” with a circle around it for meaning.
 
-1. Taylor Ex 1.6
+1. Taylor Ex 1.6  
 Main point: This problem will serve as a review of vector math and how to switch between polar and cartesian coordinates.
 
-Recall
-$$
-\vec{x}\equiv\left|\vec{x}\right|\hat{x}
-$$
-
+2. Taylor Ex  
+Main point: 
