@@ -4,26 +4,28 @@ title: Course Description
 permalink: /description/
 ---
 
-Instructor:  Ted Brzinski, KINSC L109, tbrzinski 'at' haverford 'dot' edu
+*Instructor:*  Ted Brzinski, KINSC L109, tbrzinski 'at' haverford 'dot' edu
 
-Textbook:  Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. Lautraup's Physics of Continuous Matter is an optional additional reference which we will lean on somewhat when we cover the mechanics of fluids.
+*Textbook:*  Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study - for those that took 309 using the textbook by Griffiths, Taylor is often called "Griffiths for mechanics." Later in the semester we'll draw more heavily upon other texts (provided by the instructor/library), especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter. If that is a subject that interests you, Lautraup's book (often used in fluids courses in mechanical engineering programs) is worth purchasing as a reference, and should be available in the bookstore, but I don't require you to secure a copy for the class.
 
-I owe thanks to Andrea Lommen and Kate Daniels for the format of this course. Much of this website was adapted directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text on this page was originally written by Kate.
+# Course Structure:
+I owe thanks to Andrea Lommen and Kate Daniels for the format of this course. Much of this website was adapted directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text about class format on this page was originally written by Kate.
 
 I also owe thanks to Dan Grin for a wealth of course materials which I'll be drawing upon throughout the semester - problems for group and individual investigation both in and out of the class, demos, lecture notes, and so on.
 
+*Class meetings:*
 Each Monday I'll use the first 30-40 minutes of class to summarize the prior week's topics, the weekend's readings, and what we'll learn in the present week.  My goal will be to contextualize the problem solving we do through the classwork (in-class work with your peers) and other coursework (out-of-class), highlight interesting and important concepts and ideas, and to provide some fodder for group discourse in the form of some discussion prompts and conceptual problems.  The next 15 minutes of class will consist of group- and class-wide discussion, then for the last 5-15 minutes we'll come back together and share the fruits of our group discussions.
 
-The format of each W/Fr class will be a very short (5-10 min) review highlighting the points of your reading relevant to the group problems for the day. The rest of the time will be devoted to collaborative problem solving. Since not all the relevant material will be covered in the lectures, it is essential that the assigned reading be completed each Monday. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study. Later in the semester we'll draw on other texts, especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter.
+The format of each W/Fr class will be a very short (5-10 min) review highlighting the points of your reading relevant to the group problems for the day. The rest of the time will be devoted to collaborative problem solving. Since not all the relevant material will be covered in lectures, it is essential that the assigned reading be completed each Monday.
 
-Classical mechanics is one of the more mature branches of physics we teach at the 300-level - indeed, it's the very first thing you see in our major sequence, since the topics covered in 101/105 (Newton's Laws, conservation, etc) are the foundations of classical mechanics. [Some words about open questions and relevance to active research.]
+*Class content:*
+Classical mechanics is one of the more mature branches of physics we teach at the 300-level - indeed, it's the very first thing you see in our major sequence, since the topics covered in 101/105 (Newton's Laws, conservation, etc) are the foundations of classical mechanics. [Some words about open questions and relevance to active research.
 
-
-# Class Structure:
 To solve problems in mechanics, Newton and Leibniz (in parallel) developed the fundamentals of calculus.
 Over the intervening 235 years, numerous clever applications of mathematical formalism and physical reasoning have produced a catalog of powerful analytic tools for modeling mechanical systems.
 Over the course of the semester, you will learn to utilize these tools to solve mechanics problems and also develop a clear understanding of how the mathematical formalism relates to the physical concepts at hand.
 
+*Class format:*
 The pedagogy for this course is designed to lead you toward realizing your best inner
 physicist. I will provide a strong scaffolding and support for you to make steady progress.
 In order to succeed, you must consistently (and persistently) do the reading, practice the
