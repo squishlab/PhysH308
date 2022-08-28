@@ -36,7 +36,7 @@ This is also a good opportunity to practice [Einstein notation](https://en.wikip
     \end{cases}
 $$
 
-, which is more compact than the usual determinate definition.
+, which is more compact and often easier to work with than the determinate definition.
 
 # For class Friday: 
 
