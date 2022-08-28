@@ -23,11 +23,11 @@ and an “m” with a circle around it for meaning.
 Main point: These problems will serve as a review of vector math and how to switch between polar and cartesian coordinates. They also are a good review of reference frames and reminder of fictitious forces.  Being able to solve problems in different frames, and to switch between frames, is an incredibly powerful tool for analysis.
 
 2. Newton's second law -- Taylor Ex 1.35   
-Main point:  This is probably the one of Newton's laws with which you have the most recent and extensive practice, $F=m\ddot{x}$, so this is a straightforward practice problem on balistic motion, and a good chance to practice writing up clear and well-explained solutions. 
+Main point:  This is probably the one of Newton's laws with which you have the most recent and extensive practice, $$F=m\ddot{x}$$, so this is a straightforward practice problem on balistic motion, and a good chance to practice writing up clear and well-explained solutions. 
 
 3. Newton's third law -- Taylor Ex 1.28   
 Main point: This problem is a fun one, as it's an example of how conservation of momentum is a direct consequence of the 3rd law!  If you want another example, 1.31 is also a fun one.  
-This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  $y=\sum_i x_i$ becomes $y=x_i$.  With multiple indices we have $y=\sum_{i,j}x_i x_j$ becomes $y=x_i x_j$.  We also use the kroenecker delta function
+This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  $y=\sum_i x_i$ becomes $y=x_i$.  With multiple indices we have $$y=\sum_{i,j}x_i x_j$$ becomes $$y=x_i x_j$$.  We also use the kroenecker delta function
 $$
 \delta_{ij} =
     \begin{cases}
@@ -44,7 +44,7 @@ $$
             0, &         \text{if } i=j.
     \end{cases}
 $$
-to make sums like $y=\sum_{i\neq j}x_i x_j=\epsilon_{ij}x_i x_j$
+to make sums like $$y=\sum_{i\neq j}x_i x_j=\epsilon_{ij}x_i x_j$$.
 
 # For class Friday: 
 
