@@ -29,13 +29,12 @@ Main point:  This is probably the one of Newton's laws with which you have the m
 Main point: This problem is a fun one, as it's an example of how conservation of momentum is a direct consequence of the 3rd law!  If you want another example, 1.31 is also a fun one.  
 This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  For example, recall that the dot product of $$x$$ and $$y$$ is defined as $$\vec{x} \cdot \vec{y} = \sum_{i}x_i y_i = x_1y_1 + x_2y_2 + x_3y_3$$. With Einstein notation, this becomes $$x_iy_i$$. For cross products, $$\vec{x} \times \vec{y} = \epsilon_{ijk}x_jy_k$$, with
 
-\\
-
+\
 $$
 \epsilon_{ijk} =
     \begin{cases}
-            1, &         \text{if } (i,j,k) \text{ is an even permutation of (1,2,3)}\\
-            -1, &        \text{if } (i,j,k) \text{ is an odd permutation of (1,2,3)}\\
+            1, &         \text{if } (i,j,k) \, \text{is an even permutation of (1,2,3)}\\
+            -1, &        \text{if } (i,j,k) \, \text{is an odd permutation of (1,2,3)}\\
             0, &         \text{if any of (i,j,k) are the same number}.
     \end{cases}
 $$
