@@ -27,24 +27,16 @@ Main point:  This is probably the one of Newton's laws with which you have the m
 
 3. Newton's third law -- Taylor Ex 1.28   
 Main point: This problem is a fun one, as it's an example of how conservation of momentum is a direct consequence of the 3rd law!  If you want another example, 1.31 is also a fun one.  
-This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  $$y=\sum_i x_i$$ becomes $$y=x_i$$.  With multiple indices we have $$y=\sum_{i,j}x_i x_j$$ becomes $$y=x_i x_j$$.  We also use the kroenecker delta function
-$$
-\delta_{ij} =
+This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  For example, recall that the dot product of $$x$$ and $$y$$ is defined as $$\vec{x} \cdot \vec{y} = \sum_{i}x_i y_i. With Einstein notation, this becomes $$x_iy_i$$. For cross products, $$\vec{x} \cross \vec{y} = \epsilon_{ijk}x_jy_k$$, with 
+\epsilon_{ijk} =
     \begin{cases}
-            1, &         \text{if } i=j,\\
-            0, &         \text{if } i\neq j.
+            1, &         \text{if } (i,j,k) \text{is an even permutation of (1,2,3)}\\
+            -1, &        \text{if } (i,j,k) \text{is an odd permutation of (1,2,3)}\\
+            0, &         \text{if any of (i,j,k) are the same number}.
     \end{cases}
 $$
-and the Levi-Cevita symbol
-$$
-\epsilon_{ij} =
-    \begin{cases}
-            1, &         \text{if } (i,j)=(1,2),\\
-            -1, &        \text{if } (i,j)=(2,1),\\
-            0, &         \text{if } i=j.
-    \end{cases}
-$$
-to make sums like $$y=\sum_{i\neq j}x_i x_j=\epsilon_{ij}x_i x_j$$.
+
+, which is more compact than the usual determinate definition.
 
 # For class Friday: 
 
