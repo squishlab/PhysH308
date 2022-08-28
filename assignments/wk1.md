@@ -34,8 +34,8 @@ This is also a good opportunity to practice [Einstein notation](https://en.wikip
 $$
 \epsilon_{ijk} =
     \begin{cases}
-            1, &         \text{if } (i,j,k) && \text{is an even permutation of (1,2,3)}\\
-            -1, &        \text{if } (i,j,k) && \text{is an odd permutation of (1,2,3)}\\
+            1, &         \text{if } (i,j,k) \text{ is an even permutation of (1,2,3)}\\
+            -1, &        \text{if } (i,j,k) \text{ is an odd permutation of (1,2,3)}\\
             0, &         \text{if any of (i,j,k) are the same number}.
     \end{cases}
 $$
