@@ -27,7 +27,7 @@ Main point:  This is probably the one of Newton's laws with which you have the m
 
 3. Newton's third law -- Taylor Ex 1.28   
 Main point: This problem is a fun one, as it's an example of how conservation of momentum is a direct consequence of the 3rd law!  If you want another example, 1.31 is also a fun one.  
-This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  $y=\sum_i x_i$ becomes $y=x_i$.  With multiple indices we have $$y=\sum_{i,j}x_i x_j$$ becomes $$y=x_i x_j$$.  We also use the kroenecker delta function
+This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  $$y=\sum_i x_i$$ becomes $$y=x_i$$.  With multiple indices we have $$y=\sum_{i,j}x_i x_j$$ becomes $$y=x_i x_j$$.  We also use the kroenecker delta function
 $$
 \delta_{ij} =
     \begin{cases}
@@ -48,4 +48,4 @@ to make sums like $$y=\sum_{i\neq j}x_i x_j=\epsilon_{ij}x_i x_j$$.
 
 # For class Friday: 
 
-Choose a problem in Taylor’s Problems Section 1.2-1.3, Problem 2.18, Problem 2.33, Problem 2.34, Section 2.6 that leverages a mathematical tool you feel unclear or out-of-practice with. Solve the problem, explain the assumptions and relevance to physics in a short paragraph. Come prepared to discuss with your group on Friday. We will have each group choose one problem to explain and present in a recitation or class. You need only include your individually chosen problem (as opposed to the one selected by your group) for your submitted written work.
+Choose ONE problem in Taylor’s Problems Section 1.2-1.3, Problem 2.18, Problem 2.33, Problem 2.34, Section 2.6 that leverages a mathematical tool you feel unclear or out-of-practice with. Solve the problem, explain the assumptions and relevance to physics in a short paragraph. Come prepared to discuss with your group on Friday. We will have each group choose one problem to explain and present in a recitation or class. You need only include your individually chosen problem (as opposed to the one selected by your group) for your submitted written work.
