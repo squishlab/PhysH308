@@ -27,8 +27,10 @@ Main point:  This is probably the one of Newton's laws with which you have the m
 
 3. Newton's third law -- Taylor Ex 1.28   
 Main point: This problem is a fun one, as it's an example of how conservation of momentum is a direct consequence of the 3rd law!  If you want another example, 1.31 is also a fun one.  
-This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  For example, recall that the dot product of $$x$$ and $$y$$ is defined as $$\vec{x} \cdot \vec{y} = \sum_{i}x_i y_i$$. With Einstein notation, this becomes $$x_iy_i$$. For cross products, $$\vec{x} \times \vec{y} = \epsilon_{ijk}x_jy_k$$, with 
+This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  For example, recall that the dot product of $$x$$ and $$y$$ is defined as $$\vec{x} \cdot \vec{y} = \sum_{i}x_i y_i$$. With Einstein notation, this becomes $$x_iy_i$$. For cross products, $$\vec{x} \times \vec{y} = \epsilon_{ijk}x_jy_k$$, with
+ 
 \\
+
 $$
 \epsilon_{ijk} =
     \begin{cases}
