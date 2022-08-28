@@ -30,6 +30,7 @@ Main point: This problem is a fun one, as it's an example of how conservation of
 This is also a good opportunity to practice [Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation), which is useful shorthand for summation over indices.  For example, recall that the dot product of $$x$$ and $$y$$ is defined as $$\vec{x} \cdot \vec{y} = \sum_{i}x_i y_i = x_1y_1 + x_2y_2 + x_3y_3$$. With Einstein notation, this becomes $$x_iy_i$$. For cross products, $$\vec{x} \times \vec{y} = \epsilon_{ijk}x_jy_k$$, with
 
 \\
+
 $$
 \epsilon_{ijk} =
     \begin{cases}
