@@ -22,8 +22,8 @@ and an “m” with a circle around it for meaning.
 1. Newton's first law -- Taylor Ex 1.26 and 1.27  
 Main point: These problems will serve as a review of vector math and how to switch between polar and cartesian coordinates. They also are a good review of reference frames and reminder of fictitious forces.  Being able to solve problems in different frames, and to switch between frames, is an incredibly powerful tool for analysis.
 
-2. Newton's second law -- Taylor Ex 1.--  
-Main point:  
+2. Newton's second law -- Taylor Ex 1.35   
+Main point:  This is probably the one of Newton's laws with which you have the most recent and extensive practice, $F=m\ddot{x}$, so this is a straightforward practice problem on balistic motion, and a good chance to practice writing up clear and well-explained solutions. 
 
 3. Newton's third law -- Taylor Ex 1.28   
 Main point: This problem is a fun one, as it's an example of how conservation of momentum is a direct consequence of the 3rd law!  If you want another example, 1.31 is also a fun one.  
