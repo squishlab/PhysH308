@@ -5,7 +5,14 @@ permalink: /assignments/wk1
 ---
 
 ## Reading:  
-Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Reading Notes* for week 1 are due Wednesday at 11:59 PM, and you should try to read Chaps. 1-2 before class Wednesday. Our emphasis in class will be chapter 1.
+Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Reading Notes* for week 1 are due Wednesday at 11:59 PM, and you should try to read Chaps. 1-2 before class Wednesday. Our emphasis in class will be chapter 1.\
+
+Bonus "reading": these great, old "frames of reference" videos:
+
+https://user-images.githubusercontent.com/111898805/187475549-434eceaa-39bf-4f1b-8c10-1acd4b5bed5d.mp4
+
+https://user-images.githubusercontent.com/111898805/187475775-3ce84185-2095-4236-a1dc-ff019e3472e1.mp4
+
 
 You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while
 you write them.
