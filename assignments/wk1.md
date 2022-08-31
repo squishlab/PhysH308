@@ -9,9 +9,15 @@ Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Re
 
 Bonus "reading": these great, old "frames of reference" videos:
 
-https://user-images.githubusercontent.com/111898805/187475775-3ce84185-2095-4236-a1dc-ff019e3472e1.mp4
 
-https://user-images.githubusercontent.com/111898805/187475549-434eceaa-39bf-4f1b-8c10-1acd4b5bed5d.mp4
+
+https://user-images.githubusercontent.com/111898805/187585622-85218b2a-ce6a-4cfa-a638-0d75974239d7.mp4
+
+
+
+https://user-images.githubusercontent.com/111898805/187585635-ac49acc8-94af-4f12-bc82-225fa45b4ce9.mp4
+
+
 
 You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while
 you write them.
