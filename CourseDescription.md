@@ -9,7 +9,7 @@ permalink: /description/
 *Textbook:*  Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study - for those that took 309 using the textbook by Griffiths, Taylor is often called "Griffiths for mechanics." Later in the semester we'll draw more heavily upon other texts (provided by the instructor/library), especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter. If that is a subject that interests you, Lautraup's book (often used in fluids courses in mechanical engineering programs) is worth purchasing as a reference, and should be available in the bookstore, but I don't require you to secure a copy for the class.
 
 # Course Structure:
-I owe thanks to Andrea Lommen and Kate Daniel for the format of this course. Much of this website was adapted directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text about class format on this page was originally written by Kate.
+I owe thanks to Andrea Lommen and Kate Daniel, from whom I adapted the format of this course. Much of this website was forked directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text about class format on this page was originally written by Kate.
 
 I also owe thanks to Dan Grin for a wealth of course materials which I'll be drawing upon throughout the semester - problems for group and individual investigation both in and out of the class, demos, lecture notes, and so on.
 
