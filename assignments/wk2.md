@@ -1,13 +1,13 @@
 ---
+title:  "Assignment #1"
 layout: page
-title:  "Assignment #2"
-permalink: "/assignments/wk2"
+permalink: /assignments/wk1
 ---
 
-Reading: 
+## Reading:  
+Taylor, Chapter 3. Given the odd constraints for the class this week, the *Reading Notes* for week 2 are due Tuesday at 11:59 PM.\
 
-You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while
-you write them.
+You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while you write them.
 
 Don't forget the criteria we are looking for in your solutions (see the coursework evaluation checklist for them).
 
