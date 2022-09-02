@@ -15,7 +15,5 @@ In order to make sure you get your context and meaning/make sense points,
 next to your answers, please put a “c” with a circle around it for context,
 and an “m” with a circle around it for meaning.
 
-1. 
-*Main point: *
-
-
+## Assignment:
+To be posted Friday.
