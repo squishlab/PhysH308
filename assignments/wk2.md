@@ -1,7 +1,7 @@
 ---
 title:  "Assignment #1"
 layout: page
-permalink: /assignments/wk1
+permalink: /assignments/wk2
 ---
 
 ## Reading:  
