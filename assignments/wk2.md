@@ -16,4 +16,14 @@ next to your answers, please put a “c” with a circle around it for context,
 and an “m” with a circle around it for meaning.
 
 ## Assignment:
-To be posted Friday.
+
+# For class on Wednesday:
+
+1. 3.5
+2. 3.10
+3. 3.22
+
+# For class on Friday:
+
+1. 3.26
+2. 3.30
