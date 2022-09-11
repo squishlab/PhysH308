@@ -9,4 +9,6 @@ permalink: /lectures
  - Monday: [Class introduction](PhysH308/lectures/lecture1.pdf)
  - Wednesday: [Newton's laws, vector math, and coordinate systems](PhysH308/lectures/wk1W)
  - Friday: [Mathstravaganza!](PhysH308/lectures/wk1F)
-### Week 2: Conservation of momenta and energy ###
+### Week 2: Conservation of momentum ###
+ - Wednesday: [Newton's laws, vector math, and coordinate systems](PhysH308/lectures/wk2W)
+ - Friday: [Mathstravaganza!](PhysH308/lectures/wk2F)
