@@ -1,5 +1,5 @@
 ---
-title:  "Assignment #1"
+title:  "Assignment #2"
 layout: page
 permalink: /assignments/wk2
 ---
