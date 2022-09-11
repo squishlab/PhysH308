@@ -26,3 +26,9 @@ next to your answers, please put a “c” with a circle around it for context, 
 
 1. 4.23
 2. 4.24
+
+# Problems for extra practice (ungraded!)
+
+1. 4.7 - Gravitational potentials are not the only form of potentials that can sustain orbits!
+2. 4.16 - Extra practice for finding a force from a potential
+3. 4.18-4.19 - Conceptual gradient practice
