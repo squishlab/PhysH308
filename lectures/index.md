@@ -11,5 +11,5 @@ permalink: /lectures
  - Friday: [Mathstravaganza!]()
 ### Week 2: Conservation of momenta and energy ###
  - Monday:
- - Wednesday: [Conservation of momentum](PhysH308/lectures/wk2W.pdf)
- - Friday: [Angular momentum](PhysH308/lectures/wk2F.pdf)
+ - Wednesday: [Conservation of momentum](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-7%20%28Conservation%20of%20Momentum%29.pdf?forcedownload=1)
+ - Friday: [Angular momentum](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-9%20%28Angular%20Momentum%29.pdf?forcedownload=1)
