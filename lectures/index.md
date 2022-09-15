@@ -13,3 +13,8 @@ permalink: /lectures
  - Monday:
  - Wednesday: [Conservation of momentum](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-7%20%28Conservation%20of%20Momentum%29.pdf?forcedownload=1)
  - Friday: [Angular momentum](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-9%20%28Angular%20Momentum%29.pdf?forcedownload=1)
+
+ ### Week 3: Energy, Work, and Conservative Forces ###
+- Monday: [Energy and Conservative Forces](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-12%20%28Energy%20and%20Conservative%20forces%29.pdf?forcedownload=1)
+- Wednesday: [Conservation of Energy](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-14%20%28Conservation%20of%20Energy%29.pdf?forcedownload=1)
+- Friday: 
