@@ -1,7 +1,7 @@
 ---
-title:  "Assignment #4"
+title:  "Assignment #5"
 layout: page
-permalink: /assignments/wk4
+permalink: /assignments/wk5
 ---
 
 ## Reading:  
@@ -24,4 +24,4 @@ next to your answers, please put a “c” with a circle around it for context, 
 # For class on Friday:
 
 1. 6.4
-2. 6.19 (if your book says "for which the surface area is stationary", it should say "for which the surface area is minimum")
+2. 6.19 ( if your book says "for which the surface area is stationary", it should say "for which the surface area is minimum" )
