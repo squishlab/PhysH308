@@ -18,3 +18,7 @@ permalink: /lectures
 - Monday: [Energy and Conservative Forces](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-12%20%28Energy%20and%20Conservative%20forces%29.pdf?forcedownload=1)
 - Wednesday: [Conservation of Energy](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-14%20%28Conservation%20of%20Energy%29.pdf?forcedownload=1)
 - Friday: 
+
+## Week 4: Energy, Work, and Conservative Forces ###
+- Monday: [More conservation of energy](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-19%20%28More%20conservation%20of%20energy%29.pdf?forcedownload=1)
+- Wednesday: [Paths and path integrals](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-21%20%28Paths%20and%20path%20integrals%29.pdf?forcedownload=1)
