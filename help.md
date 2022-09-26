@@ -11,5 +11,5 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 # Ted's Office Hours
 
 Weekly office hours (every week!): 
-* Tuesday: TBD
+* Wednesday: 1:30-4:30 PM in Zubrow Commons
 * Thursday: 1-4 PM in KINSC L205
