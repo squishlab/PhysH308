@@ -20,3 +20,6 @@ permalink: /lectures
 ## Week 4: Energy, Work, and Conservative Forces ###
 - Monday: [More conservation of energy](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-19%20%28More%20conservation%20of%20energy%29.pdf?forcedownload=1)
 - Wednesday: [Paths and path integrals](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-21%20%28Paths%20and%20path%20integrals%29.pdf?forcedownload=1)
+## Week 5: ~ Calculus of Variations ~ ###
+- Monday: [Calculus of Variations](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-26%20%28Calculus%20of%20Variations%29.pdf?forcedownload=1)
+- Wednesday: [Problems set up](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-28%20%28Problems%20for%20today%29.pdf?forcedownload=1)
