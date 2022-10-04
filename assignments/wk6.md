@@ -26,6 +26,6 @@ next to your answers, please put a “c” with a circle around it for context, 
 1. 7.14
 2. 7.22
 
-## Optional problems:
+## Additional problem:
 
 1. 7.24
