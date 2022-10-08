@@ -9,3 +9,4 @@ permalink: /assignments/
 [Assignment #4](/PhysH308/assignments/wk4)<br>
 [Assignment #5](/PhysH308/assignments/wk5)<br>
 [Assignment #6](/PhysH308/assignments/wk6)<br>
+[Assignment #7](/PhysH308/assignments/wk7)<br>
