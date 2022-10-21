@@ -26,3 +26,7 @@ next to your answers, please put a “c” with a circle around it for context, 
 # For class on Friday:
 
 1. 8.21 (note - this problem basically includes 8.20)
+
+# Extra credit (from two weeks ago)
+
+1. 7.41
