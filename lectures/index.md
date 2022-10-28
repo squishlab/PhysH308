@@ -17,9 +17,13 @@ permalink: /lectures
 - Monday: [Energy and Conservative Forces](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-12%20%28Energy%20and%20Conservative%20forces%29.pdf?forcedownload=1)
 - Wednesday: [Conservation of Energy](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-14%20%28Conservation%20of%20Energy%29.pdf?forcedownload=1)
 - Friday: 
-## Week 4: Energy, Work, and Conservative Forces ###
+### Week 4: Energy, Work, and Conservative Forces ###
 - Monday: [More conservation of energy](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-19%20%28More%20conservation%20of%20energy%29.pdf?forcedownload=1)
 - Wednesday: [Paths and path integrals](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-21%20%28Paths%20and%20path%20integrals%29.pdf?forcedownload=1)
-## Week 5: ~ Calculus of Variations ~ ###
+### Week 5: ~ Calculus of Variations ~ ###
 - Monday: [Calculus of Variations](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-26%20%28Calculus%20of%20Variations%29.pdf?forcedownload=1)
 - Wednesday: [Problems set up](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/9-28%20%28Problems%20for%20today%29.pdf?forcedownload=1)
+### Week 7: ~ Lagrangian Mechanics II ~ ###
+Monday: [Lagrangian Mechanics II](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/10-17%20%28Lagrangian%20Mechanics%20II%29.pdf?forcedownload=1)
+### Week 8: ~ Central Force Problems ~ ###
+Monday: [2 Body Central Force Problems](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/10-24%20%28Central%20Forces%29.pdf?forcedownload=1)
