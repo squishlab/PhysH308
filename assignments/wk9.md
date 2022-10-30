@@ -20,7 +20,7 @@ next to your answers, please put a “c” with a circle around it for context, 
 
 # For class on Wednesday:
 
-1. 10.22
+1. 10.22 - confirm that your results are consistent with the expected results of problem 10.24
 2. 10.37 (note the result of 10.23)
 
 # For class on Friday:
