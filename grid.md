@@ -15,3 +15,4 @@ permalink: /Grid/
 | October 17, 2022 | Sections 7.5-7.10, no 7.9 | [Assignment #7](/PhysH308/assignments/wk7) |
 | October 24, 2022 | Chapter 8 | [Assignment #8](/PhysH308/assignments/wk8) |
 | October 31, 2022 | Chapter 10 | [Assignment #9](/PhysH308/assignments/wk9) |
+| November 7, 2022 | Sections 13.1-13.6 | [Assignment #10](/PhysH308/assignments/wk10) |

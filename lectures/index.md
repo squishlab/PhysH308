@@ -27,3 +27,5 @@ permalink: /lectures
 Monday: [Lagrangian Mechanics II](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/10-17%20%28Lagrangian%20Mechanics%20II%29.pdf?forcedownload=1)
 ### Week 8: ~ Central Force Problems ~ ###
 Monday: [2 Body Central Force Problems](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/10-24%20%28Central%20Forces%29.pdf?forcedownload=1)
+### Week 9: Rigid Rotating Bodies ###
+Monday: [Rigid Rotating Bodies](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/Halloween%2010-31%20%28Rotating%20Rigid%20Bodies%29.pdf?forcedownload=1)
