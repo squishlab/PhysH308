@@ -17,3 +17,6 @@ permalink: /Grid/
 | October 31, 2022 | Chapter 10 | [Assignment #9](/PhysH308/assignments/wk9) |
 | November 7, 2022 | Sections 13.1-13.6 | [Assignment #10](/PhysH308/assignments/wk10) |
 | November 14, 2022 | TBA (due Wed.) | [Assignment #11](/PhysH308/assignments/wk11) |
+| November 21, 2022 | N/A | Have a good break! |
+| November 28, 2022 | Chapters 6.3-4, 12.1-4 and 13.1-7 of [Lautrup](https://tripod.haverford.edu/permalink/01TRI_INST/ndg42k/alma991019115797904921) | TBA |
+| December 5, 2022 | 15.1-5, 16.1,4-5, 17.1-2 of [Lautrup](https://tripod.haverford.edu/permalink/01TRI_INST/ndg42k/alma991019115797904921) | TBA |
