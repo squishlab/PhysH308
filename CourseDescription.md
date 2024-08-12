@@ -9,29 +9,24 @@ permalink: /description/
 *Textbook:*  Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study - for those that took 309 using the textbook by Griffiths, Taylor is often called "Griffiths for mechanics." Later in the semester we'll draw more heavily upon other texts (provided by the instructor/library), especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter. If that is a subject that interests you, Lautraup's book (often used in fluids courses in mechanical engineering programs) is worth purchasing as a reference, and should be available in the bookstore, but I don't require you to secure a copy for the class.
 
 # Course Structure:
-I owe thanks to Andrea Lommen and Kate Daniel, from whom I adapted the format of this course. Much of this website was forked directly from the page for Andrea's 2022 iteration of Phys H309. I believe much of the text about class format on this page was originally written by Kate.
-
-I also owe thanks to Dan Grin for a wealth of course materials which I'll be drawing upon throughout the semester - problems for group and individual investigation both in and out of the class, demos, lecture notes, and so on.
-
-*Class meetings:*
-Each Monday I'll use the first 30-40 minutes of class to summarize the prior week's topics, the weekend's readings, and what we'll learn in the present week.  My goal will be to contextualize the problem solving we do through the classwork (in-class work with your peers) and other coursework (out-of-class), highlight interesting and important concepts and ideas, and to provide some fodder for group discourse in the form of some discussion prompts and conceptual problems.  The next 15 minutes of class will consist of group- and class-wide discussion, then for the last 5-15 minutes we'll come back together and share the fruits of our group discussions.
-
-The format of each W/Fr class will be a very short (5-10 min) review highlighting the points of your reading relevant to the group problems for the day. The rest of the time will be devoted to collaborative problem solving. Since not all the relevant material will be covered in lectures, it is essential that the assigned reading be completed each Monday.
 
 *Class content:*
-Classical mechanics is one of the more mature branches of physics we teach at the 300-level - indeed, it's the very first thing you see in our major sequence, since the topics covered in 101/105 (Newton's Laws, conservation, etc) are the foundations of classical mechanics. [Some words about open questions and relevance to active research.
+Classical mechanics is one of the more mature branches of physics we teach at the 300-level - indeed, it's the very first thing you see in our major sequence, since the topics covered in 101/105 (Newton's Laws, conservation, etc) are the foundations of classical mechanics.
 
 To solve problems in mechanics, Newton and Leibniz (in parallel) developed the fundamentals of calculus.
 Over the intervening 235 years, numerous clever applications of mathematical formalism and physical reasoning have produced a catalog of powerful analytic tools for modeling mechanical systems.
-Over the course of the semester, you will learn to utilize these tools to solve mechanics problems and also develop a clear understanding of how the mathematical formalism relates to the physical concepts at hand.
+Over the course of the semester, you will learn to utilize these tools to solve mechanics problems and also develop a clear understanding of how the mathematical formalism relates to the physical concepts.
 
 *Class format:*
-The pedagogy for this course is designed to lead you toward realizing your best inner
-physicist. I will provide a strong scaffolding and support for you to make steady progress.
-In order to succeed, you must consistently (and persistently) do the reading, practice the
-mathematical tools, review what you did, put it back into the context of the reading,
-practice some more, and review again. We will be making several passes at the material
-with the aim of deeply learning the subject matter.
+The fundamental assumption of this course is that you're here to learn and grow as a physicist.
+The class is structured in a manner that encourages individual study, reflection, group work and discussion, iteration, and communication -- all excellent tools for intellectual and professional growth.
+While I provide structure and resources to support your learning, the learning itself is your responsibility, and will be hard work.
+Effective participation in the classe requires a commitment to keep up with the assigned work, but also that you consistently and meaningfully contribute in class.
+
+The independent work I expect of you is:
+ - completing the assigned readings
+ - reading and planning your strategy for assigned problems _before_ class meetings
+ - 
 
 Collaboration is also absolutely critical for success! One of the major barriers to
 becoming a thriving physicist is the myth of the lone, brilliant physicist. This is not how it
@@ -71,3 +66,13 @@ It is required that you do the reading before class and take notes! As you read,
       - Pretty Copy Solutions: Once you have strategized each problem on your own, discussed in class, submitted a first draft, and received feedback from your Collaborator you should feel like you understand every step of each problem very well. On your own, write a PRETTY COPY of each of your solutions — show all steps, explain all steps, reference equations used, and put it in context. These are due at 11:59 PM on Wednesday. These will be the only resource allowed during QUIZZES!
 
       - Quizzes: I will assign a quiz once every week or so on Thursdays as indicated on the SCHEDULE. These will open on Moodle at 12:01 AM and close at 11:59 PM. These are the only thing that you are expected to do independently. They are short assessments that focus on conceptual understanding and completion of the PRETTY COPY SOLUTIONS. You will have 15 minutes to complete the quiz. The only resource you are allowed to use for these is your PRETTY COPY SOLUTION or READING NOTES as indicated for each problem in the QUIZ. Do not discuss the QUIZ until the day after it is due.
+
+*Class meetings:*
+Each class meeting I'll use the beginning of class (15-45 minutes) to summarize and discuss the day's topics, readings, and problems.  My goal will be to contextualize the problem solving we do through the classwork (in-class work with your peers) and other coursework (out-of-class), highlight interesting and important concepts and ideas, and to provoke some critical thinking, enhanced with discussion prompts and conceptual problems.  The next 45-60 minutes of class will consist of group collaboration on the week's homework problems. For the last 15-30 minutes we'll come back together and share the progress we've made on the problems.
+
+# Acknowledgements:
+I owe thanks to Andrea Lommen and Kate Daniel, from whom I adapted the format of this class. Additionally the structure of this website was forked from the page for Andrea's 2022 iteration of Phys H309.
+
+I also owe thanks to many people for their influence on how I assess student progress in this course: Brett Mulligan (HC Classics) was the first colleague to make me want to try specifications grading. Since then, discussions with various colleagues have impacted how I think about assessment, grades, and student learning. The grading scheme for this particular course is based on an implementation of specifications grading used by Prof. Eric Jensen at Swarthmore College.
+
+I also owe thanks to Dan Grin for a wealth of course materials which I'll be drawing upon throughout the semester - problems for group and individual investigation both in and out of the class, demos, lecture notes, and so on.
