@@ -38,7 +38,8 @@ plugins:
 # in, in an order I don't understand.
 header_pages: 
   - announcements.md
-  - CourseDescription.md
+  # - CourseDescription.md
+  - weekly.md
   - grid.md
   - lectures/index.md
   - grades.md
