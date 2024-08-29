@@ -21,7 +21,7 @@
 title: "PHY308: Advanced Classical Mechanics"
 email: tbrzinski 'at' haverford 'dot' edu
 description: >- # this means to ignore newlines until "baseurl:"
-    This page was forked from Professor Andrea Lommen's H309 class page from Spring of 2022.
+    This page was copied from Professor Andrea Lommen's H309 class page from Spring of 2022.
     This page is hosted by github and created using Jekyll. To 
     get back to my Haverford page go to 
     https://www.haverford.edu/users/tbrzinski
@@ -39,8 +39,7 @@ plugins:
 # in, in an order I don't understand.
 header_pages: 
   - announcements.md
-  # - CourseDescription.md
-  - weekly.md
+  - CourseDescription.md
   - grid.md
   - lectures/index.md
   - grades.md
