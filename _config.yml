@@ -21,11 +21,10 @@
 title: "PHY308: Advanced Classical Mechanics"
 email: tbrzinski 'at' haverford 'dot' edu
 description: >- # this means to ignore newlines until "baseurl:"
-    This page was copied from Professor Andrea Lommen's H309 class page from Spring of 2022.
-    This page is hosted by github and created using Jekyll. To 
-    get back to my Haverford page go to 
-    https://www.haverford.edu/users/tbrzinski
-baseurl: "/PhysH308" # the subpath of your site, e.g. /blog
+    This page was forked from Professor [Andrea Lommen's H309 class page](https://andrealommen.github.io/PHY309/) from Spring of 2022.
+    This page is hosted by github and created using [Jekyll](https://jekyllrb.com/).
+    To get back to my Haverford page go to 
+    [https://www.haverford.edu/users/tbrzinski](https://www.haverford.edu/users/tbrzinski)baseurl: "/PhysH308" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  squishlab
 
