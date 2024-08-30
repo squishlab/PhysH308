@@ -1,5 +1,5 @@
 ---
-title: Lecture Notes
+title: Notes
 layout: page
 permalink: /lectures
 ---

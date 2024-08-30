@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: HW expectations  
+title: Expectations  
 permalink: /writeup/
 author: Ted Brzinski
 ---

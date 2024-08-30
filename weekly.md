@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Workflow 
+title: Workflow 
 permalink: /weekly/
 ---
 |  | Monday | Tuesday | Wednesday | Thursday | Friday |
