@@ -5,6 +5,7 @@ permalink: /lectures
 ---
 ### For reference ###
 [Integrals](PhysH308/lectures/ToI)
+
 ### Week 1: Mechanics and mathematics review ### 
  <!-- - Monday: [Class introduction](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/8-29%20%28Class%20Introduction%29.pdf?forcedownload=1)
  - Wednesday: [Newton's laws, vector math, and coordinate systems]()
