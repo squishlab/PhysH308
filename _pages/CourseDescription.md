@@ -1,22 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-author: Ted Brzinski
-title: Welcome to Advanced Mechanics!
+layout: page
+title: Course Description 
+permalink: /description/
 ---
 
-Click on the various links above for more information.  The week-by-week subjects and the reading for each
-week are listed on the "[Grid](/PhysH308/Grid)."
+*Instructor:*  Ted Brzinski, KINSC L109, tbrzinski 'at' haverford 'dot' edu, include _"PhysH308-F2024"_ in your subject line
 
-# Instructor:
- - Prof Ted Brzinski
- - Office: KINSC L109
- - email: [tbrzinski 'at' haverford 'dot' edu](mailto:tbrzinski@haverford.edu), include _"PhysH308-F2024"_ in your subject line
-
-# Textbook:
-Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study - for those that took 309 using the textbook by Griffiths, Taylor is often called "Griffiths for mechanics." Later in the semester we'll draw more heavily upon other texts (provided by the instructor/library), especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter. If that is a subject that interests you, Lautraup's book (often used in fluids courses in mechanical engineering programs) is worth purchasing as a reference, and should be available in the bookstore, but I don't require you to secure a copy for the class.
+*Textbook:*  Classical Mechanics by John R. Taylor (required) and other excerpts provided by the instructor. The textbook by Taylor gives an excellent treatment of classical mechanics. It is well written in an informal style that lends itself well to self study - for those that took 309 using the textbook by Griffiths, Taylor is often called "Griffiths for mechanics." Later in the semester we'll draw more heavily upon other texts (provided by the instructor/library), especially for our study of fluid mechanics. Most prominently, we'll use readings from Lautrup's Physics of Continuous Matter. If that is a subject that interests you, Lautraup's book (often used in fluids courses in mechanical engineering programs) is worth purchasing as a reference, and should be available in the bookstore, but I don't require you to secure a copy for the class.
 
 # Course Structure:
 
