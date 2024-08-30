@@ -9,24 +9,14 @@ Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Re
 
 Bonus "reading": these great, old "frames of reference" videos:
 
+[1](https://user-images.githubusercontent.com/111898805/187585622-85218b2a-ce6a-4cfa-a638-0d75974239d7.mp4)
 
-
-https://user-images.githubusercontent.com/111898805/187585622-85218b2a-ce6a-4cfa-a638-0d75974239d7.mp4
-
-
-
-https://user-images.githubusercontent.com/111898805/187585635-ac49acc8-94af-4f12-bc82-225fa45b4ce9.mp4
-
-
+[2](https://user-images.githubusercontent.com/111898805/187585635-ac49acc8-94af-4f12-bc82-225fa45b4ce9.mp4)
 
 You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while
 you write them.
 
 Don't forget the criteria we are looking for in your solutions (see the coursework evaluation checklist for them).
-
-In order to make sure you get your context and meaning/make sense points,
-next to your answers, please put a “c” with a circle around it for context,
-and an “m” with a circle around it for meaning.
 
 ## Problems 
 # For class Tuesday: 
@@ -57,4 +47,4 @@ $$
 which is more compact and often easier to work with than the determinate definition.
 
 
-2. Choose ONE problem in Taylor’s Problems Section 1.2-1.3, Problem 2.18, Problem 2.33, Problem 2.34, or Section 2.6 that leverages a mathematical tool you feel unclear or out-of-practice with. Solve the problem, explain the assumptions and relevance to physics in a short paragraph. Come prepared to discuss with your group on Friday. We will have each group choose one problem to explain and present in a recitation or class. You need only include your individually chosen problem (as opposed to the one selected by your group) for your submitted written work.
+2. Choose ONE problem in Taylor’s Problems Section 1.2-1.3, Problem 2.18, Problem 2.33, Problem 2.34, or Section 2.6 that leverages a mathematical tool you feel unclear or out-of-practice with. Solve the problem, explain the assumptions and relevance to physics in a short paragraph. Come prepared to discuss with your group and present one of your problems to the class. You need only include your individually chosen problem (as opposed to the one selected by your group) for your submitted written work.

@@ -17,5 +17,3 @@ If, at any point in the semester, a disability or personal circumstances affect 
 
 
 *In addition to the statement above, I want to express a few additional things*
-
-[statements on attribution and participation]

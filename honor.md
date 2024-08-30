@@ -17,4 +17,4 @@ Copying someone else’s work (either another student in the course, solutions p
 Never copy directly from a group solution, either on paper or on a blackboard. Just writing down the names of students with whom you have worked on your homework does not make such copying acceptable behavior.
 
 
-[Update!]
+[statements on attribution and participation]
