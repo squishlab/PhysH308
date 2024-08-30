@@ -5,8 +5,8 @@ permalink: /lectures
 ---
 ### For reference ###
 [Integrals](PhysH308/lectures/ToI)
-### Week 1: Mechanics and mathematics review ###
- - Monday: [Class introduction](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/8-29%20%28Class%20Introduction%29.pdf?forcedownload=1)
+### Week 1: Mechanics and mathematics review ### 
+ <!-- - Monday: [Class introduction](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/8-29%20%28Class%20Introduction%29.pdf?forcedownload=1)
  - Wednesday: [Newton's laws, vector math, and coordinate systems]()
  - Friday: [Mathstravaganza!]()
 ### Week 2: Conservation of momenta and energy ###
@@ -28,4 +28,4 @@ Monday: [Lagrangian Mechanics II](https://moodle.haverford.edu/pluginfile.php/92
 ### Week 8: ~ Central Force Problems ~ ###
 Monday: [2 Body Central Force Problems](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/10-24%20%28Central%20Forces%29.pdf?forcedownload=1)
 ### Week 9: Rigid Rotating Bodies ###
-Monday: [Rigid Rotating Bodies](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/Halloween%2010-31%20%28Rotating%20Rigid%20Bodies%29.pdf?forcedownload=1)
+Monday: [Rigid Rotating Bodies](https://moodle.haverford.edu/pluginfile.php/92396/mod_folder/content/0/Halloween%2010-31%20%28Rotating%20Rigid%20Bodies%29.pdf?forcedownload=1) -->

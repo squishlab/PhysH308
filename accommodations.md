@@ -18,6 +18,4 @@ If, at any point in the semester, a disability or personal circumstances affect 
 
 *In addition to the statement above, I want to express a few additional things*
 
-A common, high-impact, easily implemented accommodation is recording of class meetings. I am, preemptively, planning to record all of our class meetings using Zoom. The zoom link and recordings will be available to anyone who is unable to attend class in-person, or who want to review events of the class. Zoom should not be treated as an alternative to attending lecture, only a poor substitute when *absolutely* necessary or (the recordings) as a study aid, but all students should know that class meetings will be recorded, and that they will have access to those recordings.
-
 [statements on attribution and participation]

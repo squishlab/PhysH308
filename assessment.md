@@ -1,6 +1,6 @@
 ---
 layout: page 
-title:  Announcements
-permalink: /announcements/
+title:  Assessment
+permalink: /assessment/
 ---
 
