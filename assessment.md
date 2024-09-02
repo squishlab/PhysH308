@@ -25,34 +25,35 @@ Italicized text denotes concepts or terminology you will learn over the course o
 If you can do all of these things and have a deep understanding of the terminology, you probably shouldn't be in this class.
 The point of the class is to help you gain those abilities.  You can't gain something you already have.
 
-The goals are categorized into physical concepts (C), quantitative problem solving skills (Q), and physical reasoning (R)
+The goals are categorized into physical concepts (C), quantitative problem solving skills (Q), and physical reasoning (R).  Goals marked with an asterisk (*) may change over the course of the semester, based on discussion and feedback with the class:
 
  - C1: Demonstrate understanding of Newton's laws and their implications for motion
  - C2: What makes a force conservative, both in terms of work and potential?
- - C3: 
- - C4: 
- - C5: 
- - C6: 
- - C7: 
+ - C3: Demonstrate a conceptual understanding of "the action" and calculus of variations
+ - C4: Explain the relationship between the Newtonian, Lagrangian, and Hamiltonian frameworks
+ - C5*: Demonstrate a qualitative understanding of the Kepler orbits.
+ - C6*: Explain the principal axes of inertia and the intermediate axis theorem 
+ - C7*: Explain, in the context of Hamiltonian Mechanics, ignorable coordinates and canonical transformations.
+ - C8*: Apply continuity to predict the behaviour of fluid flows
  
 
  - Q1a: Solve for the forces involved in the staticity of a system in the Newtonian framework 
  - Q1b: Solve for the motion of a particle subject to body forces in the Newtonian framework 
- - Q2: Work proficiently in cartesian, cylindrical, and spherical coordinate systems.
- - Q3: Solve problems using curvilinear coordinate systems.
- - Q4: 
- - Q5: 
- - Q6: 
- - Q7: 
+ - Q2: Solve problems using curvilinear coordinate systems.
+ - Q3: Find the equations of motion for a system in a Lagrangian framework.
+ - Q4: Correctly calculate and interpret forces of constraint in a lagrangian framework
+ - Q5*: Solve for the orbit of a body subject to a central gravitational force
+ - Q6*: Calculate the motion of a rotating solid body in both the body and lab frames 
+ - Q7a*: Find the stresses in a continuum material at rest (hydrostatics)
+ - Q7b*: Find the equations of motion for ideal fluid flow in simple geometries (hydrodynamics)
  
 
  - R1: Explicitly relate the conservation of energy and momentum to Newton's Laws
- - R2: 
- - R3: 
- - R4: 
- - R5: 
- - R6: 
- - R7: 
+ - R2: Demonstrate proficiency in identifying and interpretting generalized momenta
+ - R3: Relate the symmetries of the Lagrangian to conserved quantities
+ - R4*: Utilize the center of mass coordinate system to simplify central force problems
+ - R5*: Explain the precession of a spinning top
+ - R6*: Predict the qualitative differences between a fluid system in the laminar vs inertial limits
  
 
 # Assessing learning standards
