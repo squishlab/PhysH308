@@ -28,7 +28,7 @@ The point of the class is to help you gain those abilities.  You can't gain some
 The goals are categorized into physical concepts (C), quantitative problem solving skills (Q), and physical reasoning (R)
 
  - C1: Demonstrate understanding of Newton's laws and their implications for motion
- - C2: 
+ - C2: What makes a force conservative, both in terms of work and potential?
  - C3: 
  - C4: 
  - C5: 
@@ -39,7 +39,7 @@ The goals are categorized into physical concepts (C), quantitative problem solvi
  - Q1a: Solve for the forces involved in the staticity of a system in the Newtonian framework 
  - Q1b: Solve for the motion of a particle subject to body forces in the Newtonian framework 
  - Q2: Work proficiently in cartesian, cylindrical, and spherical coordinate systems.
- - Q3: 
+ - Q3: Solve problems using curvilinear coordinate systems.
  - Q4: 
  - Q5: 
  - Q6: 
