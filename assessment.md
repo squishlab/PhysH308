@@ -27,6 +27,7 @@ The point of the class is to help you gain those abilities.  You can't gain some
 
 The goals are categorized into physical concepts (C), quantitative problem solving skills (Q), and physical reasoning (R).  Goals marked with an asterisk (*) may change over the course of the semester, based on discussion and feedback with the class:
 
+Conceptual:
  - C1: Demonstrate understanding of Newton's laws and their implications for motion
  - C2: What makes a force conservative, both in terms of work and potential?
  - C3: Demonstrate a conceptual understanding of "the action" and calculus of variations
@@ -36,7 +37,7 @@ The goals are categorized into physical concepts (C), quantitative problem solvi
  - C7*: Explain, in the context of Hamiltonian Mechanics, ignorable coordinates and canonical transformations.
  - C8*: Apply continuity to predict the behaviour of fluid flows
  
-
+Quantitative:
  - Q1a: Solve for the forces involved in the staticity of a system in the Newtonian framework 
  - Q1b: Solve for the motion of a particle subject to body forces in the Newtonian framework 
  - Q2: Solve problems using curvilinear coordinate systems.
@@ -47,7 +48,7 @@ The goals are categorized into physical concepts (C), quantitative problem solvi
  - Q7a*: Find the stresses in a continuum material at rest (hydrostatics)
  - Q7b*: Find the equations of motion for ideal fluid flow in simple geometries (hydrodynamics)
  
-
+Reasoning:
  - R1: Explicitly relate the conservation of energy and momentum to Newton's Laws
  - R2: Demonstrate proficiency in identifying and interpretting generalized momenta
  - R3: Relate the symmetries of the Lagrangian to conserved quantities
