@@ -47,8 +47,8 @@ header_pages:
   - writeup.md
   - help.md
   - honor.md
-  - diversity.md
-  - accommodations.md
+  - values.md
+  # - accommodations.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
