@@ -25,7 +25,6 @@ Don't forget the criteria we are looking for in your solutions (see the coursewo
 Main point: These problems will serve as a review of vector math and how to switch between polar and cartesian coordinates. They also are a good review of reference frames and reminder of fictitious forces.  Being able to solve problems in different frames, and to switch between frames, is an incredibly powerful tool for analysis.
 
 2. Staticity -- The sliding book problem, shared in class. The text of the problem can be found on the final page of the [Slides from Tuesday](lectures/firstday_308_2024.pdf)
-
 Main point: this is a good review of staticity and vector math. Additionally, it is essentially an extension of the classic incline plane problem, but because of the new context many students find it challenging.  Figuring out how to map new problems onto familiar abstractions is a quintessentially physics-y strategy for problem solving!
 
 3. Newton's second law -- Taylor Ex 1.35   
