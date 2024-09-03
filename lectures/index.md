@@ -4,7 +4,7 @@ layout: page
 permalink: /lectures
 ---
 ### For reference ###
-[Integrals](PhysH308/lectures/ToI)
+[Integrals](lectures/ToI)
 
 ### Week 1: Mechanics and mathematics review ### 
-[Slides from Tuesday](PhysH308/lectures/firstday_308_2024.pdf)
+[Slides from Tuesday](lectures/firstday_308_2024.pdf)
