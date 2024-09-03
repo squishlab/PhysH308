@@ -5,7 +5,7 @@ permalink: /assignments/wk1
 ---
 Learning goals: C1, Q1, Q2, R1
 ## Reading:  
-Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Reading Notes* for week 1 are due Thursday at 11:59 PM, and you should try to read Chaps. 1-2 before class on Thursday. Our emphasis in class will be chapter 1.\
+Taylor, Chapters 1-2. Given the odd constraints for the class this week, the *Reading Notes* for week 1 are due Thursday at 11:59 PM, and you should try to read Chaps. 1-2 before class on Thursday. Our emphasis in class will be chapter 1.
 
 Bonus "reading": these great, old "frames of reference" videos:
 
