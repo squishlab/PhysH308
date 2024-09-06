@@ -12,5 +12,4 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 
 Weekly office hours (every week!): 
 * Tuesdays and Wednesdays in The Coop from 12-2 PM
-By appointment:
-* [Callendly](https://calendly.com/tbrzinski/one-on-one-meeting-with-ted)
+* By appointment: [Callendly](https://calendly.com/tbrzinski/one-on-one-meeting-with-ted)
