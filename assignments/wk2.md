@@ -5,7 +5,7 @@ permalink: /assignments/wk2
 ---
 
 ## Reading:  
-Taylor, Chapter 3. Given the odd constraints for the class this week, the *Reading Notes* for week 2 are due Tuesday at 11:59 PM.\
+Taylor, Chapter 3.
 
 You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while you write them.
 
