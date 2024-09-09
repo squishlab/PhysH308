@@ -51,5 +51,6 @@ $$
 which is more compact and often easier to work with than the determinate definition.
 
 # Alright, I'm confused. What's due in my written work then!?!
- - Taylor problems 1.26,1.27,1.28,1.35, one math review problem from Section 1.2-1.3, Problem 2.18, Problem 2.33, Problem 2.34, or Section 2.6
+ - Taylor problems 1.26,1.27,1.28,1.35
+ - _*one*_ math review problem from Section 1.2-1.3, Problem 2.18, Problem 2.33, Problem 2.34, or Section 2.6
  - The problem from Tuesday's lecture notes about holding a book against the wall.
