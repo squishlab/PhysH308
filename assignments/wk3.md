@@ -13,19 +13,19 @@ Don't forget the criteria we are looking for in your solutions (see the coursewo
 
 ## Assignment:
 
-# For class on Wednesday:
+# For class on Tuesday:
 
 1. 4.4
 2. 4.8
 3. 4.12
 
-# For class on Friday:
+# For class on Thursday:
 
 1. 4.23
 2. 4.24
 
-# Problems for extra practice (ungraded -- not required!)
+# Problems for extra practice/exploration (ungraded -- not required!)
 
-1. 4.7 - Gravitational potentials are not the only form of potentials that can sustain orbits!
+1. 4.7 - Gravitational potentials are not the only form of potentials that can sustain closed orbits (though it's less common than you might think!)
 2. 4.16 - Extra practice for finding a force from a potential
-3. 4.18-4.19 - Conceptual gradient practice
+3. 4.18-4.19 - Conceptual practice with gradients
