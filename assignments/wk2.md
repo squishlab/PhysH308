@@ -13,13 +13,13 @@ Don't forget the criteria we are looking for in your solutions (see the coursewo
 
 ## Assignment:
 
-# For class on Wednesday:
+# For class on Tuesday:
 
 1. 3.5
 2. 3.10
 3. 3.22
 
-# For class on Friday:
+# For class on Thursday:
 
 1. 3.26
 2. 3.30
