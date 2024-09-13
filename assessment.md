@@ -39,7 +39,7 @@ Conceptual:
  
 Quantitative:
  - Q1a: Solve for the forces involved in the staticity of a system in the Newtonian framework 
- - Q1b: Solve for the motion of a body subject to body forces in the Newtonian framework 
+ - Q1b: Solve for the motion of a body in the Newtonian framework (using Newton's Laws and conservation of momentum)
  - Q2: Solve problems using curvilinear coordinate systems.
  - Q3: Find the equations of motion for a system in a Lagrangian framework.
  - Q4: Correctly calculate and interpret forces of constraint in a lagrangian framework
