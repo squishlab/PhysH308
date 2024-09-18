@@ -13,3 +13,7 @@ permalink: /lectures
 ### Week 2: Mechanics and mathematics review continued ### 
  - [Slides from Tuesday](lectures/308_wk2_t.pdf)
  - [Slides from Thursday](lectures/308_wk2_th.pdf)
+
+### Week 3: Energy and Conservation of Energy ### 
+ - [Slides from Tuesday](lectures/308_wk3_t.pdf)
+ - [Slides from Thursday](lectures/308_wk3_th.pdf)
