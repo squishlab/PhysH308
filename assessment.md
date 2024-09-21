@@ -75,7 +75,7 @@ standard from each of the categories above.
 
 | Grade | Criteria                                                                                                                                                                                   |
 |:-----:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  4.0  | Earn a Successful score on all homework assignments AND Earn a Successful score on all but 1 learning standards AND Complete all peer assessments or all quizzes quizzes (but at least 70% of both)                              |
+|  4.0  | Earn a Successful score on all homework assignments AND Earn a Successful score on all but 1 learning standards AND Complete all peer assessments OR all quizzes (but at least 70% of both)                              |
 |  3.3  | Earn a Successful score on all but 1 homework assignment AND Earn a Successful score on at least 80% of learning standards AND Complete all peer assessments and 70% of quizzes            |
 |  2.7  | Earn a Successful score on at least 50% of the homework assignments AND Earn a Successful score on at least 70% of learning standards AND Complete all peer assessments and 50% of quizzes |
 |  2.0  | Earn a Successful score on at least 50% of the homework assignments AND Earn a Successful score on at least 50% of learning standards AND Complete all peer assessments.                   |
