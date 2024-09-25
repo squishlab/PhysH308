@@ -14,7 +14,7 @@ week are listed on the "[Grid](/PhysH308/Grid)."
  - Prof Ted Brzinski
  - Office: KINSC L109
  - Appointments:  [Callendly](https://calendly.com/tbrzinski/one-on-one-meeting-with-ted)
- - Office hours: Tuesdays and Wednesdays in The Coop from 12-2 PM
+ - Office hours: Tuesdays in The Coop and Wednesdays on [zoom](https://haverford.zoom.us/j/92795996805) from 12-2 PM
  - email: [tbrzinski 'at' haverford 'dot' edu](mailto:tbrzinski@haverford.edu), include _"PhysH308-F2024"_ in your subject line
 
 # Textbook:
