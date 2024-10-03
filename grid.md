@@ -11,3 +11,4 @@ permalink: /Grid/
 | September 16, 2024 | Chapters 4.1-4.5 | [Assignment #3](/PhysH308/assignments/wk3) |
 | September 23, 2024 | Chapters 4.6-4.10 | [Assignment #4](/PhysH308/assignments/wk4) |
 | September 30, 2024 | Chapter 6 | [Assignment #5](/PhysH308/assignments/wk5) |
+| October 7, 2024 | Chapter 6 | [Assignment #5](/PhysH308/assignments/wk6) |
