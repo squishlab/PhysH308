@@ -21,8 +21,7 @@ Don't forget the criteria we are looking for in your solutions (see "expectation
 # For class on Thursday:
 
 1. 6.4
-2. 6.9
-3. 6.10 (In class only, time permitting)
 
 # Postponed until next week: 
 1. 6.19 ( if your book says "for which the surface area is stationary", it should say "for which the surface area is minimum" )
+2. 6.9
