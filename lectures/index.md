@@ -14,6 +14,15 @@ permalink: /lectures
  - [Slides from Tuesday](lectures/308_wk2_t.pdf)
  - [Slides from Thursday](lectures/308_wk2_th.pdf)
 
-### Week 3: Energy and Conservation of Energy ### 
+### Week 3 - 4: Energy and Conservation of Energy ### 
  - [Slides from Tuesday](lectures/308_wk3_t.pdf)
  - [Slides from Thursday](lectures/308_wk3_th.pdf)
+- [Slides from wk 4 Tuesday](lectures/308_wk4_t.pdf)
+ - [Slides from wk 4 Thursday](lectures/308_wk4_th.pdf)
+
+### Week 5: Calc of variations ### 
+- [Slides from Tuesday](lectures/308_wk5_t.pdf)
+ - [Slides from Thursday](lectures/308_wk5_th.pdf)
+
+### Week 5: Lagrangians! ### 
+- [Slides from Tuesday](lectures/308_wk6_t.pdf)
