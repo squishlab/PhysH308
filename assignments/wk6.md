@@ -19,9 +19,10 @@ Don't forget the criteria we are looking for in your solutions (see "expectation
 2. 7.2
 
 ## For class on Thursday:
-1. 7.10 or 7.11 (we will discuss in class)
-2. 7.12
+1. 7.10
+2. 7.11
 
 ## Extra practice problem (not graded/required): ##
 1. 6.9
 2. 7.6
+3. 7.12 (Think back to Tuesday's lecture -- where would friction go in the derivation? This looks like the sort of exam question I could ask for C3...)
