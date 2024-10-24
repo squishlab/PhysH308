@@ -24,6 +24,8 @@ permalink: /lectures
 - [Slides from Tuesday](lectures/308_wk5_t.pdf)
  - [Slides from Thursday](lectures/308_wk5_th.pdf)
 
-### Week 5: Lagrangians! ### 
-- [Slides from Tuesday](lectures/308_wk6_t.pdf)
+### Week 6-7: Lagrangians! ### 
 - [Slides from Thursday](lectures/308_wk6_th.pdf)
+- [Slides from Tuesday](lectures/308_wk6_t.pdf)
+- [Slides from Tuesday](lectures/308_wk7_t.pdf)
+- [Slides from Thursday](lectures/308_wk7_th.pdf)
