@@ -5,25 +5,28 @@ permalink: /assignments/wk9
 ---
 
 ## Reading:  
-Taylor, Chapter 10
+Taylor, Chaps. 9.3-5 and Chapters 10.1-5
 
-This week - Rotating bodies. You're gonna learn about the physics of tops and other cool things. Fair warning: 10.3 may be a little tough, but you'll get some review of this on Monday.
+This week - Rotating bodies. You're gonna learn about the physics of tops and other cool things. Fair warning: 10.3 may be a little tough, but you'll get some review of this on Thursday.
 
 You may work together and get help from other students. Your solutions must be written in your own words, without looking at someone else's solutions while you write them.
 
-Don't forget the criteria we are looking for in your solutions (see the coursework evaluation checklist).
-
-In order to make sure you get your context and meaning points,
-next to your answers, please put a “c” with a circle around it for context, and an “m” with a circle around it for meaning.
+Don't forget the criteria we are looking for in your solutions (see the Expectations page).
 
 ## Assignment:
 
-# For class on Wednesday:
+# For class on Tuesday:
+1. 10.14 -- The answer to 10.11(b) will be provided at the beginning of class, which may help!
+2. 10.22(a)
+3. Vote, if you're able!
 
-1. 10.22 - confirm that your results are consistent with the expected results of problem 10.24
-2. 10.37 (note the result of 10.23)
+# For class on Thursday:
 
-# For class on Friday:
+1. 10.22(b), then confirm that your results are consistent with the expected results of problem 10.24
+3. 10.37 (note the result of 10.23)
+
+# If you want a preview, we'll be looking at the following problems next week (with demos/toys!):
 
 1. 10.42
-2. Your choice between 10.43 and 10.52
+2. 10.43
+3. 10.52
