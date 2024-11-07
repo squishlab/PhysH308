@@ -29,3 +29,11 @@ permalink: /lectures
 - [Slides from Tuesday](lectures/308_wk6_t.pdf)
 - [Slides from Tuesday](lectures/308_wk7_t.pdf)
 - [Slides from Thursday](lectures/308_wk7_th.pdf)
+
+### Week 8: Central motion! ### 
+- [Slides from Tuesday](lectures/308_wk8_t.pdf)
+- [Slides from Thursday](lectures/308_wk8_th.pdf)
+
+### Week 9-10: Spinning solids! ### 
+- [Slides from Tuesday](lectures/308_wk9_t.pdf)
+- [Slides from Thursday](lectures/308_wk9_th.pdf)
