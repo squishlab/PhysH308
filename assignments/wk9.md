@@ -18,12 +18,11 @@ Don't forget the criteria we are looking for in your solutions (see the Expectat
 # For class on Tuesday:
 1. 10.14 -- The answer to 10.11(b) will be provided at the beginning of class, which may help!
 2. 10.22(a)
-3. Vote, if you're able!
 
 # For class on Thursday:
 
 1. 10.22(b), then confirm that your results are consistent with the expected results of problem 10.24
-3. 10.37 (note the result of 10.23)
+3. 10.37 (note the result of 10.23) *We're pushing this problem to Assignment #10*
 
 # If you want a preview, we'll be looking at the following problems next week (with demos/toys!):
 
