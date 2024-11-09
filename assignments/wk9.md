@@ -22,7 +22,16 @@ Don't forget the criteria we are looking for in your solutions (see the Expectat
 # For class on Thursday:
 
 1. 10.22(b), then confirm that your results are consistent with the expected results of problem 10.24
-3. 10.37 (note the result of 10.23) *We're pushing this problem to Assignment #10*
+2. 10.37 (note the result of 10.23) *We're pushing this problem to Assignment #10*
+   
+
+# Independent problems (Due Friday, Nov 8):
+Consider the atwood machine below.
+1. *Q2* Express the Lagrangian for the system in terms of only x and y (the heights of the two rightmost masses relative to the pictured positions).
+2. *Q3* Write the equations of motion for both coordinates (you don't need $x(t),y(t)$, just equations equivalent to Newton's 2nd Law).
+3. *R2* Write the generalized forces and momenta for this system. Next week you'll revisit these terms in the context of Noether's theorem!
+
+   <img src="Thatwood.jpg" alt="Thatwood machine" width="200"/>
 
 # If you want a preview, we'll be looking at the following problems next week (with demos/toys!):
 
