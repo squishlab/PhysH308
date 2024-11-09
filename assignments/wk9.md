@@ -25,7 +25,7 @@ Don't forget the criteria we are looking for in your solutions (see the Expectat
 2. 10.37 (note the result of 10.23) *We're pushing this problem to Assignment #10*
    
 
-# Independent problems (Due Friday, Nov 8):
+# Independent problems (Due Friday, Nov 15):
 Consider the atwood machine below.
 1. *Q2* Express the Lagrangian for the system in terms of only x and y (the heights of the two rightmost masses relative to the pictured positions).
 2. *Q3* Write the equations of motion for both coordinates (you don't need $x(t),y(t)$, just equations equivalent to Newton's 2nd Law).
