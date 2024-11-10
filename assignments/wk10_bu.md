@@ -1,7 +1,7 @@
 ---
-title:  "Assignment #10"
+title:  "Assignment #10 bu"
 layout: page
-permalink: /assignments/wk10
+permalink: /assignments/wk10bu
 ---
 
 ## Reading:  
