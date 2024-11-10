@@ -27,9 +27,9 @@ Don't forget the criteria we are looking for in your solutions (see the Expectat
 
 # Independent problems (Due Friday, Nov 15):
 Consider the atwood machine below.
-1. *Q2* Express the Lagrangian for the system in terms of only x and y (the heights of the two rightmost masses relative to the pictured positions).
-2. *Q3* Write the equations of motion for both coordinates (you don't need $x(t),y(t)$, just equations equivalent to Newton's 2nd Law).
-3. *R2* Write the generalized forces and momenta for this system. Next week you'll revisit these terms in the context of Noether's theorem!
+1. *Will complete Q2 if you haven't yet* Express the Lagrangian for the system in terms of only x and y (the heights of the two rightmost masses relative to the pictured positions).
+2. *In combination with part 1, this completes Q3* Write the equations of motion for both coordinates from the Lagrangian (you don't need $x(t),y(t)$, just equations equivalent to Newton's 2nd Law).
+3. *This completes R2* Write the generalized forces and momenta for this system. Next week you'll revisit these terms in the context of Noether's theorem!
 
    <img src="Thatwood.jpg" alt="Thatwood machine" width="200"/>
 
