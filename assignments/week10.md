@@ -16,10 +16,10 @@ Don't forget the criteria we are looking for in your solutions (see the Expectat
 ## Assignment:
 
 # For class on Tuesday:
-1. 10.37 -- continued from last week - a very dangerous frisbee! (we may revisit this system, with a demo, on Thursday!)
+1. ~~10.37 -- continued from last week - a very dangerous frisbee!~~ Covered in class.
 2. 10.42 -- Book is frisbee!
 
 # For class on Thursday:
 
-1. 10.43 -- More frisbee!
+1. ~~10.43 -- More frisbee!~~
 2. 10.52 -- A spinning top.  If I ruined frisbees for you, this will make frisbees fun again.
