@@ -20,6 +20,7 @@ Don't forget the criteria we are looking for in your solutions (see the Expectat
 2. 10.42 -- Book is frisbee!
 
 # For class on Thursday:
-
-1. ~~10.43 -- More frisbee!~~
-2. 10.52 -- A spinning top.  If I ruined frisbees for you, this will make frisbees fun again.
+We're going to cover Euler Angles.  I think this is a tricky enough set of concepts we're going to change the originally planned problems to something that better helps us connect this formalism to concepts from earlier in the class!
+1. 10.51 -- Nutation of a top!
+2. ~~10.43 -- More frisbee!~~
+3. ~~10.52 -- A spinning top.  If I ruined frisbees for you, this will make frisbees fun again.~~
