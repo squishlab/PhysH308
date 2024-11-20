@@ -37,5 +37,5 @@ permalink: /lectures
 ### Week 9-10: Spinning solids! ### 
 - [Slides from Tuesday](lectures/308_wk9_t.pdf)
 - [Slides from Thursday](lectures/308_wk9_th.pdf)
-- Slides from Tuesday -- coming soon
+- [Slides from Tuesday](lectures/308_wk10_t.pdf)
 - [Slides from Thursday](lectures/308_wk10_th.pdf)
