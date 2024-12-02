@@ -52,7 +52,7 @@ Reasoning:
  - R1: Explicitly relate the conservation of energy and momentum to Newton's Laws
  - R2: Demonstrate proficiency in identifying and interpretting generalized momenta
  - R3: Relate the symmetries of the Lagrangian to conserved quantities
- - R4*: Utilize the center of mass coordinate system to simplify central force problems
+ - R4*: Utilize the center of mass coordinate system to simplify the description of a central force problem or rotational motion
  - R5*: Explain the precession of a spinning top
  - R6*: Predict the qualitative differences between a fluid system in the laminar vs inertial limits
  
