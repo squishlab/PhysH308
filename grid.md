@@ -18,3 +18,4 @@ permalink: /Grid/
 | November 11, 2024 | Chapter 10.5-10 | [Assignment #10](/PhysH308/assignments/wk10) |
 | November 18, 2024 | Chapter 13.1-6 | [Assignment #11](/PhysH308/assignments/wk11) |
 | November 25, 2024 | Chapter 13.6, 13.7 optional | [Assignment #12](/PhysH308/assignments/wk12) |
+| December 2, 2024 | [Lautraup Chapter 12](https://tripod.haverford.edu/permalink/01TRI_INST/ndg42k/alma991019115797904921) | [Assignment #12](/PhysH308/assignments/wk12) |
