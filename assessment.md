@@ -54,7 +54,8 @@ Reasoning:
  - R3: Relate the symmetries of the Lagrangian to conserved quantities
  - R4*: Utilize the center of mass coordinate system to simplify the description of a central force problem or rotational motion
  - R5*: Explain the precession of a spinning top
- - R6*: Predict the qualitative differences between a fluid system in the laminar vs inertial limits
+ - R6*: Interpret the stability of a rotating or orbital system.
+ - R7*: Predict the qualitative differences between a fluid system in the laminar vs inertial limits
  
 
 # Assessing learning standards
