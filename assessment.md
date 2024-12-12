@@ -25,7 +25,7 @@ Italicized text denotes concepts or terminology you will learn over the course o
 If you can do all of these things and have a deep understanding of the terminology, you probably shouldn't be in this class.
 The point of the class is to help you gain those abilities.  You can't gain something you already have.
 
-The goals are categorized into physical concepts (C), quantitative problem solving skills (Q), and physical reasoning (R).  Goals marked with an asterisk (*) may change over the course of the semester, based on discussion and feedback with the class:
+The goals are categorized into physical concepts (C), quantitative problem solving skills (Q), and physical reasoning (R).  ~~Goals marked with an asterisk (*) may change over the course of the semester, based on discussion and feedback with the class~~:
 
 Conceptual:
  - C1: Demonstrate understanding of Newton's laws and their implications for motion
@@ -80,7 +80,7 @@ standard from each of the categories above.~~
 |  2.7  | Earn ~~a Successful score on at least 50% of the homework assignments~~ *an adjusted homework score $$>70%$$* AND Earn a Successful score on ~~at least 70% of~~ *all but 8* learning standards AND Complete all peer assessments and 50% of quizzes |
 |  2.0  | Earn ~~a Successful score on at least 50% of the homework assignments~~ *an adjusted homework score $$>50%$$* AND Earn a Successful score on ~~at least 50% of~~ *all but 11* learning standards AND Complete all peer assessments.                   |
 
-The adjusted homework score is 50% completion, 50% assessment.  Homeworks (or resubmissions) marked "satisfactory" get 50/50 assessment points. Homeworks marked "not yet" get 0/50. Homeworks that have not been returned as of Dec. 13 will be awarded a fractional assessment (more like a conventional homework grade, including partial credit).
+The adjusted homework score is 50% completion and 50% assessment.  Homework (or resubmissions) marked "satisfactory" gets 50/50 assessment points. Homework marked "not yet" gets 0/50. Homework that has not been returned as of Dec. 13 will be awarded a fractional assessment (more like a conventional homework grade, including partial credit).
 
 If you complete all of the criteria for a grade, and 2 of the criteria for the next grade category, you will automatically move up to an intermediate score (e.g., 3.3 becomes a 3.7).
 If you complete only one of the criteria from the next category, you may move up to an intermediate score at the discretion of the instructor - generally based on partial completion of the other 2 criteria
