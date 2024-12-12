@@ -39,3 +39,13 @@ permalink: /lectures
 - [Slides from Thursday](lectures/308_wk9_th.pdf)
 - [Slides from Tuesday](lectures/308_wk10_t.pdf)
 - [Slides from Thursday](lectures/308_wk10_th.pdf)
+
+### Week 11-14: ###
+- [Slides from Tuesday](lectures/308_wk11_t.pdf)
+- [Slides from Thursday](lectures/308_wk11_th.pdf)
+- [Slides from Tuesday](lectures/308_wk12_t.pdf)
+- [Slides from Thursday](lectures/308_wk12_th.pdf)
+- [Slides from Tuesday](lectures/308_wk13_t.pdf)
+- [Slides from Thursday](lectures/308_wk13_th.pdf)
+- [Slides from Tuesday](lectures/308_wk14_t.pdf)
+- [Slides from Thursday](lectures/308_wk14_th.pdf)
