@@ -41,8 +41,8 @@ Quantitative:
  - Q1b: Solve for the motion of a body in the Newtonian framework (using Newton's Laws and conservation of momentum)
  - Q2: Solve problems using curvilinear coordinate systems.
  - Q3: Find the equations of motion for a system in a Lagrangian framework.
- - Q4: Correctly calculate and interpret forces of constraint in a lagrangian framework
- - Q5: Solve for the orbit of a body subject to a central gravitational force
+ - Q4: ~~Correctly calculate and interpret forces of constraint in a lagrangian framework~~ Oops! I asked about Q5 twice! I'll treat Q4 as an bonus standard for those who completed both Q4/Q5, but won't penalize you if you Q4 and not Q5, or vice versa.
+ - Q5: Solve for the orbit of a body subject to a central force
  - Q6: Calculate the motion of a rotating solid body in both the body and lab frames 
  - Q7: Apply Benoulli’s Theorem to understand a fluid flow and the related pressure change
  
